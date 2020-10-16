@@ -20,8 +20,7 @@ namespace JenkinsTEst
 
         private void button1_Click(object sender, EventArgs e)
         {
-            // added a minor change.
-            label1.Text = "Version 1.5.3";
+
         }
 
         private void btAddition_Click(object sender, EventArgs e)
