@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JenkinsTest", "JenkinsTEst\JenkinsTest.csproj", "{CE5214F9-2B4D-40D8-AA70-3C4C4A3D54E4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MathModelUTest", "MathModelUTest\MathModelUTest.csproj", "{CA79CD0B-17A1-4375-BF6E-104EE212267C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "infos", "infos", "{E35C7EEB-344B-4DE0-9395-F1677C500D81}"
+	ProjectSection(SolutionItems) = preProject
+		Infosammlung.txt = Infosammlung.txt
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CE5214F9-2B4D-40D8-AA70-3C4C4A3D54E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE5214F9-2B4D-40D8-AA70-3C4C4A3D54E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE5214F9-2B4D-40D8-AA70-3C4C4A3D54E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE5214F9-2B4D-40D8-AA70-3C4C4A3D54E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA79CD0B-17A1-4375-BF6E-104EE212267C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA79CD0B-17A1-4375-BF6E-104EE212267C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA79CD0B-17A1-4375-BF6E-104EE212267C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA79CD0B-17A1-4375-BF6E-104EE212267C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {596EDE03-AB22-442C-8E27-9606E6FD2054}
+	EndGlobalSection
+EndGlobal

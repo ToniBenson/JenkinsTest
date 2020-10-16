@@ -1,0 +1,5 @@
+
+
+## Testing mit vstest.console.exe
+# Pfad zum Testtool		C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\Extensions\TestPlatform\vstest.console.exe
+# Command				./vstest.console.exe C:\dev\JenkinsTest\MathModelUTest\bin\Debug\MathModelUTest.dll
